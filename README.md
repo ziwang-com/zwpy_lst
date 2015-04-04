@@ -1,0 +1,2 @@
+# zwpy_lst
+中文版的python常用模块库清单,是zwPython项目的一部分,源自目前最常用的python第三方模块库清单：awesome-python的基础上
